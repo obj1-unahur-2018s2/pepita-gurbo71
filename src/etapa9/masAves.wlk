@@ -11,6 +11,7 @@ object pepon {
 
 // implementar el objeto entero, salvo haceLoQueQuieras que lo damos hecho
 // ayuda: conviene ponerle dos atributos
+
 class Paloma {
 	var km=0
 	var cuanto=0

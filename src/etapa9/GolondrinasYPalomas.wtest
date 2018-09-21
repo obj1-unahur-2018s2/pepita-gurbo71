@@ -3,6 +3,7 @@ import roque.*
 import golondrina.*
 import comidas.*
 
+
 test "Golondrinas y Palomas" {
 	
 	var juliana=new Golondrina()
@@ -29,4 +30,5 @@ test "Golondrinas y Palomas" {
 	assert.equals(0, pirula.kmsRecorridos())
 	assert.equals(30, pirincha.gramosIngeridos())
 	assert.equals(35, pirincha.kmsRecorridos())
+
 }

@@ -4,7 +4,6 @@
 
 import comidas.*
 import masAves.*
-import pepita.*
 import roque.*
 
 object susana { 

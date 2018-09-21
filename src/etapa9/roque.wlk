@@ -30,6 +30,6 @@ object roque {
 
 
 	method pupiloActual(){
-		return _ave
+		return _aves
 	}
 }
